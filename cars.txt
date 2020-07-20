@@ -9,3 +9,7 @@ Audi
 Tesla
 Dodge
 Jeep
+Hyundai
+Nissan
+Lexus
+Ferrari
